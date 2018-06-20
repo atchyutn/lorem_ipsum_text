@@ -1,2 +1,4 @@
 require "bundler/gem_tasks"
-task :default => :spec
+task :default do
+  puts 'No default task.'
+end
