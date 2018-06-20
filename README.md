@@ -1,8 +1,5 @@
 # LoremIpsumText
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/lorem_ipsum_text`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to LoremIpsumText! This Ruby gem is used to generate a single line, Paragraph, multiple paragraph text
 
 ## Installation
 
@@ -22,7 +19,26 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```require 'lorem_ipsum_text'
+
+LoremIpsumText::paragraph```
+
+output: 
+```
+"Minim cillum esse reprehenderit magna. Cupidatat sit ullamco anim dolore aliquip magna sint reprehenderit ex cupidatat. Occaecat mollit esse adipisicing dolor duis. Reprehenderit commodo anim in officia. Duis esse id incididunt exercitation Lorem sunt fugiat. Est ipsum quis nulla veniam culpa enim dolor voluptate aliquip et mollit." 
+```
+
+## Available methods:
+
+```
+LoremIpsumText::one_line
+
+LoremIpsumText::paragraph
+
+LoremIpsumText::multiple_para
+```
+
+
 
 ## Development
 
@@ -32,7 +48,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/lorem_ipsum_text.
+Bug reports and pull requests are welcome on GitHub at https://github.com/atchyutn/lorem_ipsum_text.
 
 ## License
 
