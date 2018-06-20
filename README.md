@@ -1,4 +1,5 @@
 # LoremIpsumText
+[![Gem Version](https://badge.fury.io/rb/lorem_ipsum_text.svg)](https://badge.fury.io/rb/lorem_ipsum_text)
 [![Build Status](https://travis-ci.org/atchyutn/lorem_ipsum_text.svg?branch=master)](https://travis-ci.org/atchyutn/lorem_ipsum_text)
 
 Welcome to LoremIpsumText! This Ruby gem is used to generate a single line, Paragraph, multiple paragraph text
