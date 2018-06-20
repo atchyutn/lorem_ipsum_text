@@ -19,12 +19,13 @@ Or install it yourself as:
 
 ## Usage
 
-```require 'lorem_ipsum_text'
-
-LoremIpsumText::paragraph```
-
-output: 
 ```
+require 'lorem_ipsum_text'
+
+LoremIpsumText::paragraph
+
+#output: 
+
 "Minim cillum esse reprehenderit magna. Cupidatat sit ullamco anim dolore aliquip magna sint reprehenderit ex cupidatat. Occaecat mollit esse adipisicing dolor duis. Reprehenderit commodo anim in officia. Duis esse id incididunt exercitation Lorem sunt fugiat. Est ipsum quis nulla veniam culpa enim dolor voluptate aliquip et mollit." 
 ```
 
