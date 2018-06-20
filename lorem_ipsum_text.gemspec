@@ -6,12 +6,12 @@ require "lorem_ipsum_text/version"
 Gem::Specification.new do |spec|
   spec.name          = "lorem_ipsum_text"
   spec.version       = LoremIpsumText::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
+  spec.authors       = ["Atchyut Nagabhairava"]
+  spec.email         = ["atchyutnagabhairava@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Generates a random lorem text.}
+  spec.description   = %q{This gem is used to generate a single line, Paragraph, multiple paragraph text}
+  spec.homepage      = ""
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

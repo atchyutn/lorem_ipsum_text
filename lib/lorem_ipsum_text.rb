@@ -1,5 +1,7 @@
 require "lorem_ipsum_text/version"
 
 module LoremIpsumText
-  # Your code goes here...
+  def self.one_line
+   "Excepteur ullamco adipisicing nostrud laborum exercitation." 
+  end
 end
