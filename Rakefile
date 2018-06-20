@@ -3,7 +3,5 @@ require 'bundler'
 
 task :default do
   puts 'Running Default tasks'
-  # Bundler::GemHelper.install_tasks
-  rake build
-  rake release
+  Bundler::GemHelper.install_tasks
 end
