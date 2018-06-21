@@ -26,7 +26,7 @@ Or install it yourself as:
 ```
 require 'lorem_ipsum_text'
 
-LoremIpsumText::paragraph
+$ LoremIpsumText::multiple_para(no_of_paragraphs)
 
 #output: 
 
